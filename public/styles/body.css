@@ -1,0 +1,35 @@
+.ww{
+    color: rgba(0, 0, 0, 0.863);
+    font-size: 130%;
+    font-family: "Latin Modern Roman 10";
+  font-style: italic;
+}
+
+h1{
+    padding: 20px;
+    color: black;
+    background-color: rgba(204, 46, 46, 0.596);
+    font-family: "Segoe UI";
+    text-align: center;
+    font-size: 230%;
+    margin: 10px;
+}
+
+.lala{
+    color: black;
+    text-align: left;
+    font: small-caption;
+    font-size: 120%;
+}
+
+.info{
+    padding: 10px;
+    color: black;
+    background-color: rgba(204, 46, 46, 0.363);
+    font-family: "Segoe UI";
+    text-align: center;
+    font-size: 100%;
+    margin: 5px;
+}
+
+
